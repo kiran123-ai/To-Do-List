@@ -11,7 +11,7 @@ Delete tasks by their number
 
 Persistent storage using a text file (tasks.txt)
 
-Simple and user-friendly menu-driven interfac
+Simple and user-friendly menu-driven interface
 
  # How to Use
   - Requirements
